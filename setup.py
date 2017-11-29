@@ -11,9 +11,9 @@ with open('README.md') as f:
 setuptools.setup(
     name='FreeIPA JSON',
     version='0.1',
-    author='Andreas Calminder',
-    author_email='andreas.calminder@nordnet.se',
-    url='https://github.com/nordnet/python-freeipa-json',
+    author='Malek Mezhoud',
+    author_email='m.mezhoud@gmail.com',
+    url='https://github.com/hunteratonoud/freeipa-json',
     description='Lightweight FreeIPA library',
     long_description=readme,
     license='MIT',
