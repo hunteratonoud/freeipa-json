@@ -20,4 +20,4 @@ for host in reply['result']['result']:
 
 ## License
 
-MIT © [Nordnet Bank AB](https://www.nordnet.se/)
+MIT ©
